@@ -1,6 +1,8 @@
 Spotipedia for Chrome
 ================
 
+Download the extension from: https://chrome.google.com/webstore/detail/spotipedia-for-chrome/hgfjkidofjemkpgfggfpebolkbhagmbf?hl=en
+
 Use Spotify to listen to songs by a musician or band directly from their Wikipedia page
 This extension takes the name of the musician or band you are reading about on Wikipedia, and loads a Spotify music player with songs by that artist so you can listen to their music for free, right in the browser! Just click on the Spotipedia button when you are on a musician, band or singer's page on Wikipedia.org.
 
